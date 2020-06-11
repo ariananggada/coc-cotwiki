@@ -36,8 +36,8 @@ requirement or dependencies :
 
 in insert mode to trigger completion: 
 
-    - File: \<completion> 
-    - [[\<completion>
+    - File: \<completion> \
+    - [[\<completion> \
     - Reference: \<completion>
 
 
