@@ -34,11 +34,11 @@ requirement or dependencies :
 
 ## how to use
 
-in insert mode to trigger completion: 
+in insert mode to trigger completion:
 
-    - File: \<completion> \
-    - [[\<completion> \
-    - Reference: \<completion>
+    - File: <completion>
+    - [[<completion>
+    - Reference: <completion>
 
 
 ## License
