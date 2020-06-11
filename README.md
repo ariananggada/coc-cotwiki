@@ -1,4 +1,4 @@
-# coc-wiki
+# coc-cotwiki
 
 my personal wiki completion extension [coc.nvim](https://github.com/neoclide/coc.nvim).
 
